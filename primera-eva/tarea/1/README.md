@@ -28,6 +28,7 @@ https://en.wikipedia.org/wiki/Zombie_process
 ### 9. Diferencia entre concurrencia y paralelismo.
 Concurrencia: varias tareas pueden progresar (estar activas) durante el mismo intervalo de tiempo, pero no necesariamente al mismo instante. Puede lograrse con un único núcleo mediante alternancia (context switching). 
 https://www.geeksforgeeks.org/operating-systems/difference-between-concurrency-and-parallelism/
+
 Paralelismo: múltiples tareas se ejecutan simultáneamente al mismo instante, típicamente usando múltiples núcleos o procesadores.
 https://www.geeksforgeeks.org/operating-systems/difference-between-concurrency-and-parallelism/
 ### 10. Explica qué es un hilo (thread) y en qué se diferencia de un proceso.
